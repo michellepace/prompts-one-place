@@ -1,5 +1,3 @@
-# My Workflows
-
 ## 🎯 Content Creation Workflow
 1. **Brainstorm** → Use [content-ideas.md](./content-creation/content-ideas.md)
 1. **First draft** → Use [blog-post-draft.md](./content-creation/blog-post-draft.md) 
@@ -20,7 +18,7 @@
 
 ---
 
-# What's in this Repo
+## What's in this Repo
 
 **Prompt Folders**
 - [content-creation/](./content-creation/) - Blog posts, social media, newsletters
