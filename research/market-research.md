@@ -14,4 +14,4 @@ horse
 These things are [description of things]. Please read them carefully and [do some task].
 ```
 
-**Note 1:** just sub in "cow" and "horse" get them from the animal farm.
+**Note 1:** Substitute in "cow" and "horse" get them from the animal farm.
