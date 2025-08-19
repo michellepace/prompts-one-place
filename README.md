@@ -1,3 +1,5 @@
+# My Workflows
+
 ## 🎯 Content Creation Workflow
 1. **Brainstorm** → Use [content-ideas.md](./content-creation/content-ideas.md)
 1. **First draft** → Use [blog-post-draft.md](./content-creation/blog-post-draft.md) 
@@ -14,11 +16,9 @@
 1. [etc.]
 1. [etc.]
 
-.
+⌘
 
----
-
-## What's in this Repo
+# Index
 
 **Prompt Folders**
 - [content-creation/](./content-creation/) - Blog posts, social media, newsletters
@@ -26,6 +26,6 @@
 - [research/](./research/) - Market research, competitor analysis, data gathering
 
 **Other**
-- [powerful-words.md](./powerful-words.md) - Domain vocabulary by industry/role
+- [words.md](./words.md) - Domain vocabulary by industry/role
 
 *(⭐ I'd leave this section out so you don't need to maintain it - just name folders and files well)*
