@@ -1,4 +1,5 @@
-Collect powerful prompting words over prompts prompts: Specific either to the industry you are currently in (e.g., mining, banking, manufacturing, digital media, etc.), or the tasks that you are doing. Like words a Designer would know ("modal navigation drawer", "warmer greys", "Tighter information density"), but I don't. Or words an Engineer knows, but I don't ("monolithic", "modular", "single purpose").
+> [!TIP]
+> Collect powerful prompting words over prompts prompts: Specific either to the industry you are currently in (e.g., mining, banking, manufacturing, digital media, etc.), or the tasks that you are doing. Like words a Designer would know ("modal navigation drawer", "warmer greys", "Tighter information density"), but I don't. Or words an Engineer knows, but I don't ("monolithic", "modular", "single purpose").
 
 Having a collection of right words, means I can easily write:
 
